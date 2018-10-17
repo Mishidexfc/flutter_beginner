@@ -1,4 +1,4 @@
-<table><tr><td bgcolor=orange>
+
 
 
 ![](https://img.shields.io/badge/Support-Flutter-blue.svg)
@@ -20,4 +20,4 @@ EventChannel flutter启动后开始监听，从iOS主动发送事件，flutter�
 <img width="232.875" height="414" src="https://github.com/Mishidexfc/flutter_beginner/blob/master/ScreenShots/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-10-17%20at%2015.46.36.png"/>
 <img width="232.875" height="414" src="https://github.com/Mishidexfc/flutter_beginner/blob/master/ScreenShots/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-10-17%20at%2015.46.49.png"/>
 
-</td></tr></table>
+
