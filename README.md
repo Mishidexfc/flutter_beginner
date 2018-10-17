@@ -1,5 +1,3 @@
-
-https://img.shields.io/github/license/mashape/apistatus.svg
 # flutter_mixed
 
 Flutter entry code, mainly demonstrates how flutter and iOS interact with each other.
