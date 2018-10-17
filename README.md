@@ -1,6 +1,3 @@
-
-<table><tr><td bgcolor=orange> 背景色是 1 orange</td></tr></table>
-
 ![](https://img.shields.io/badge/Support-Flutter-blue.svg)
 ![](https://img.shields.io/badge/Author-Jue%20Wang-orange.svg)
 
