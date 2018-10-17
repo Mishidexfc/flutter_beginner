@@ -9,10 +9,9 @@ Flutter entry code, mainly demonstrates how flutter and iOS interact with each o
 
 Flutter一个超简易的偏新手的入门代码，主要演示了flutter和iOS相互交互的方法。
 
-1. MethodChannel sends a request from flutter, calling the iOS method, in the example requesting the remaining battery power
-  MethodChannel 
+1. MethodChannel sends a request from flutter, calling the iOS method, in the example requesting the remaining battery power 
   
-从flutter发出请求，调用iOS的方法，示例里为请求电池剩余电量
+MethodChannel从flutter发出请求，调用iOS的方法，示例里为请求电池剩余电量
 
 2. EventChannel flutter starts to monitor after being loaded, sends events from iOS actively, and flutter refreshes the title after receiving the event
 
