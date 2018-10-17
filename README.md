@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Support-Flutter-blue.svg)
+![](https://img.shields.io/badge/Author-Jue%20Wang-orange.svg)
 # flutter_mixed
 
 Flutter entry code, mainly demonstrates how flutter and iOS interact with each other.
