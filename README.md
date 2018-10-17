@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Support-Flutter-blue.svg)
 ![](https://img.shields.io/badge/Author-Jue%20Wang-orange.svg)
-![image]()
+![image](https://github.com/Mishidexfc/flutter_beginner/blob/master/ScreenShots/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-10-17%20at%2015.46.36.png)
 # flutter_mixed
 
 Flutter entry code, mainly demonstrates how flutter and iOS interact with each other.
